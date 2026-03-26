@@ -44,6 +44,30 @@ git clone https://github.com/antonyevans/weekly-food-plan.git skills/weekly-food
 
 Restart OpenClaw (or start a new chat/session).
 
+### Option C: Install in Claude Code / Codex (AgentSkills-compatible)
+
+This repo is **AgentSkills-compatible**: the skill is the folder that contains `SKILL.md` at its root.
+
+Most “coding agent” runtimes (including Claude Code and Codex) support *either* (a) AgentSkills directly, or (b) a “skills/prompts” folder you can point at.
+
+Generic install steps:
+
+1) Clone the repo anywhere convenient:
+
+```bash
+git clone https://github.com/antonyevans/weekly-food-plan.git
+```
+
+2) Configure your agent tool to load skills from that folder **or** copy/link it into the tool’s skills directory so the path looks like:
+
+```text
+<your-skills-dir>/weekly-food-plan/SKILL.md
+```
+
+3) Restart the tool / start a new session so it reindexes skills.
+
+If your Claude Code / Codex setup expects a different skills directory convention, tell me what it’s using and I’ll tailor the instructions.
+
 ## Use
 
 In chat, ask something like:
