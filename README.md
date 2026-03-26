@@ -27,7 +27,7 @@ Clone into your managed skills directory:
 ```bash
 mkdir -p ~/.openclaw/skills
 cd ~/.openclaw/skills
-git clone https://github.com/<you>/weekly-food-plan.git weekly-food-plan
+git clone https://github.com/antonyevans/weekly-food-plan.git weekly-food-plan
 ```
 
 Restart OpenClaw (or start a new chat/session) so it reloads skills.
@@ -39,7 +39,7 @@ Clone into your specific OpenClaw workspace:
 ```bash
 cd /path/to/your/openclaw/workspace
 mkdir -p skills
-git clone https://github.com/<you>/weekly-food-plan.git skills/weekly-food-plan
+git clone https://github.com/antonyevans/weekly-food-plan.git skills/weekly-food-plan
 ```
 
 Restart OpenClaw (or start a new chat/session).
