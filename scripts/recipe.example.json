@@ -1,0 +1,28 @@
+{
+  "title": "Weeknight Lemon Garlic Chicken",
+  "servings": 2,
+  "total_minutes": 30,
+  "protein": "Chicken",
+  "cuisine": "American",
+  "effort": "Easy",
+  "kid_friendly": true,
+  "source": "Original",
+  "store": "Wegmans",
+  "tags": ["Weeknight", "One pan"],
+  "ingredients": [
+    "1 lb chicken thighs",
+    "2 cloves garlic, minced",
+    "1 lemon (zest + juice)",
+    "1 tbsp olive oil",
+    "Salt and pepper",
+    "Optional: parsley"
+  ],
+  "instructions": [
+    "Season chicken with salt and pepper.",
+    "Sear in olive oil over medium-high heat until browned, 4–5 min per side.",
+    "Add garlic; cook 30 seconds.",
+    "Add lemon zest + juice and a splash of water; simmer until cooked through.",
+    "Rest 5 minutes and serve."
+  ],
+  "notes": "Great with rice and a quick salad."
+}
